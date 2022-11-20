@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carapp-react/static/css/main.aac99097.css",
+    "main.js": "/carapp-react/static/js/main.0a9f1bfa.js",
+    "static/js/787.22ea9dd3.chunk.js": "/carapp-react/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/carapp-react/index.html",
+    "main.aac99097.css.map": "/carapp-react/static/css/main.aac99097.css.map",
+    "main.0a9f1bfa.js.map": "/carapp-react/static/js/main.0a9f1bfa.js.map",
+    "787.22ea9dd3.chunk.js.map": "/carapp-react/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac99097.css",
+    "static/js/main.0a9f1bfa.js"
+  ]
+}
